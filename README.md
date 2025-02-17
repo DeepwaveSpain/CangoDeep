@@ -36,6 +36,9 @@ pip install -r requirements.txt
 2. Configurar sensores y cámaras según las instrucciones del equipo.
 3. Monitorear la recopilación de datos en tiempo real.
 
+## 🌐 Página Web
+Visita nuestra página web oficial para más información sobre el proyecto: [Deepwave Website](https://hugo777ddds.wixsite.com/deepwave)
+
 ## 🤝 Contribuciones
 ¡Deepwave está abierto a sugerencias y mejoras! Si quieres contribuir:
 1. Haz un fork del repositorio.
